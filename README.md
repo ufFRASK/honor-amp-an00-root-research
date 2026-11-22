@@ -23,6 +23,7 @@ HONOR 300 PRO / **AMP-AN00** / Snapdragon 8 Gen 3 (SM8650) / Android 15 (MagicOS
 - [43499：被否掉的假设清单](docs/04-excluded-hypotheses.md)
 - [可观测性与收口依据](docs/05-observability.md)
 - [其它排查面（eventpoll / kgsl / f2fs / perf / 厂商私有）](docs/06-other-surfaces.md)
+- [2026-11-15 候选面批次（eventpoll / kgsl / f2fs / perf / 厂商私有，逐面判据）](docs/08-candidate-surfaces-20261115.md)
 - [重启条件与后续方向](docs/07-restart-conditions.md)
 - [工具](tools/README.md)
 - [鸣谢](ACKNOWLEDGEMENTS.md)
